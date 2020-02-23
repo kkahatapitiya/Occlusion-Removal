@@ -1,0 +1,182 @@
+66646 :	person
+3390 :	bicycle
+12773 :	car
+3659 :	motorcycle
+3079 :	airplane
+4139 :	bus
+3744 :	train
+6372 :	truck
+3144 :	boat
+4329 :	traffic light
+1797 :	fire hydrant
+0 :	street sign
+1801 :	stop sign
+740 :	parking meter
+5803 :	bench
+3323 :	bird
+4023 :	cat
+4314 :	dog
+3058 :	horse
+1587 :	sheep
+2049 :	cow
+2227 :	elephant
+1008 :	bear
+2001 :	zebra
+2645 :	giraffe
+0 :	hat
+5689 :	backpack
+4133 :	umbrella
+0 :	shoe
+0 :	eye glasses
+7035 :	handbag
+2492 :	tie
+2492 :	suitcase
+2245 :	frisbee
+3202 :	skis
+1701 :	snowboard
+4036 :	sports ball
+2351 :	kite
+2589 :	baseball bat
+2682 :	baseball glove
+3603 :	skateboard
+3634 :	surfboard
+3550 :	tennis racket
+8626 :	bottle
+0 :	plate
+2586 :	wine glass
+9289 :	cup
+3307 :	fork
+4156 :	knife
+3355 :	spoon
+7078 :	bowl
+2225 :	banana
+1556 :	apple
+2149 :	sandwich
+1676 :	orange
+1789 :	broccoli
+1583 :	carrot
+1178 :	hot dog
+3067 :	pizza
+1469 :	donut
+2854 :	cake
+13334 :	chair
+4615 :	couch
+4622 :	potted plant
+3829 :	bed
+0 :	mirror
+12335 :	dining table
+0 :	window
+0 :	desk
+3502 :	toilet
+0 :	door
+4756 :	tv
+3679 :	laptop
+1909 :	mouse
+3148 :	remote
+2206 :	keyboard
+3837 :	cell phone
+1590 :	microwave
+2992 :	oven
+225 :	toaster
+4861 :	sink
+2461 :	refrigerator
+0 :	blender
+5495 :	book
+4776 :	clock
+3703 :	vase
+947 :	scissors
+2180 :	teddy bear
+197 :	hair drier
+869 :	toothbrush
+0 :	hair brush
+4276 :	banner
+2726 :	blanket
+2908 :	branch
+1763 :	bridge
+24030 :	building-other
+10331 :	bush
+7482 :	cabinet
+3036 :	cage
+4019 :	cardboard
+5029 :	carpet
+10953 :	ceiling-other
+363 :	ceiling-tile
+3251 :	cloth
+28969 :	clothes
+10241 :	clouds
+4751 :	counter
+1024 :	cupboard
+5306 :	curtain
+3063 :	desk-stuff
+10604 :	dirt
+9841 :	door-stuff
+11731 :	fence
+1054 :	floor-marble
+9320 :	floor-other
+1326 :	floor-stone
+6928 :	floor-tile
+6574 :	floor-wood
+3379 :	flower
+2778 :	fog
+7008 :	food-other
+2217 :	fruit
+18925 :	furniture-other
+23509 :	grass
+2726 :	gravel
+6431 :	ground-other
+2608 :	hill
+6830 :	house
+3319 :	leaves
+12220 :	light
+588 :	mat
+23979 :	metal
+3766 :	mirror-stuff
+264 :	moss
+5074 :	mountain
+675 :	mud
+1476 :	napkin
+1415 :	net
+10017 :	paper
+19151 :	pavement
+2060 :	pillow
+9880 :	plant-other
+11911 :	plastic
+2122 :	platform
+5473 :	playingfield
+2133 :	railing
+2839 :	railroad
+2403 :	river
+16059 :	road
+3535 :	rock
+4659 :	roof
+2811 :	rug
+502 :	salad
+4900 :	sand
+6890 :	sea
+4817 :	shelf
+33119 :	sky-other
+2074 :	skyscraper
+5292 :	snow
+788 :	solid-other
+2760 :	stairs
+1889 :	stone
+1451 :	straw
+3200 :	structural-other
+17040 :	table
+1554 :	tent
+13683 :	textile-other
+2672 :	towel
+37991 :	tree
+2098 :	vegetable
+5462 :	wall-brick
+32833 :	wall-concrete
+19736 :	wall-other
+2523 :	wall-panel
+2112 :	wall-stone
+5520 :	wall-tile
+6962 :	wall-wood
+2532 :	water-other
+128 :	waterdrops
+2383 :	window-blind
+14728 :	window-other
+5263 :	wood
