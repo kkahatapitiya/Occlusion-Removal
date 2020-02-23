@@ -1,6 +1,6 @@
-# Context-Aware Occlusion Removal
+# Context-Aware Automatic Occlusion Removal
 
-This repository contains the source for our ICIP 2019 paper [Context-Aware Occlusion Removal](https://arxiv.org/pdf/1905.02710).
+This repository contains the source for our ICIP 2019 paper [Context-Aware Automatic Occlusion Removal](https://arxiv.org/pdf/1905.02710).
 
 ### Introduction
 
