@@ -61,14 +61,6 @@ flags.DEFINE_string('embeddings',None,'Where is embeddings')
 flags.DEFINE_string('class_map_w2v',None,'Where is classmap')
 flags.DEFINE_string('class_names',None,'Where is class list')
 
-root_dir='/Users/kumarakahatapitiya/Desktop/codebase/'
-segment_dir='/Users/kumarakahatapitiya/Desktop/full_test/segment'
-mask_dir='/Users/kumarakahatapitiya/Desktop/full_test/mask_dil/'
-
-sys.path.insert(0, root_dir+'models-master/research/')
-sys.path.insert(0, root_dir+'keras-resnet-master/')
-sys.path.insert(0, root_dir+'generative_inpainting-master/')
-
 _SEMANTIC_PREDICTION_SAVE_FOLDER = 'segmentation_results'
 _RAW_SEMANTIC_PREDICTION_SAVE_FOLDER = 'raw_segmentation_results'
 _IMAGE_FORMAT = '%06d_image'
